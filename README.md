@@ -11,6 +11,7 @@ This project leverages the power of natural language processing (NLP) and machin
 1. **Data Ingestion and Preprocessing:**
    - The project begins with data ingestion from various sources that have text data, image data, and more
    - Data preprocessing steps include cleaning and reformatting to prepare the data for analysis.
+   - Used static data because real estate API's are expensive and Webscraping is not allowed in many places
      
 2. **Language Model Integration:**
    - Utilizes the Gemini API's pretrained large language model to analyze and interpret real estate data.
