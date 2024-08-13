@@ -21,11 +21,4 @@ This project leverages the power of natural language processing (NLP) and machin
    - Employed a multi-agent strategy using LangChain, incorporating a text-to-SQL agent for handling text queries, a CLIP agent for processing image data, and a reranking agent that applies cosine similarity to refine responses.
    - Focused on the text-to-SQL agent, crafted a robust database schema to store comprehensive housing data, and utilized the Gemini API to enable the agent to interpret and execute complex user queries.
    - Implemented advanced prompt engineering techniques to minimize erroneous responses, achieving a chatbot accuracy rate of 90%.
-## Installation
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/real_estate_agent_langchain.git
-   cd real_estate_agent_langchain
