@@ -23,3 +23,8 @@ This project leverages the power of natural language processing (NLP) and machin
    - Focused on the text-to-SQL agent, crafted a robust database schema to store comprehensive housing data, and utilized the Gemini API to enable the agent to interpret and execute complex user queries.
    - Implemented advanced prompt engineering techniques to minimize erroneous responses, achieving a chatbot accuracy rate of 90%.
 
+## Important Files
+- langchain: https://github.com/adacersos/Advanced-AI/blob/main/real_estate_agent_langchain.ipynb
+- Langgraph: https://github.com/adacersos/Advanced-AI/blob/main/real_estate_agent_langgraph.ipynb
+- text to sql data: https://github.com/adacersos/Advanced-AI/blob/main/cleaned_houses_info_with_ID.csv
+- clip image data: No longer have access to it
